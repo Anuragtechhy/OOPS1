@@ -28,6 +28,8 @@ System.setProperty("webdriver.chrome.driver","C:\\Users\\Dell\\software2\\chrome
 		act.dragAndDrop(wm, wt).build().perform();
 		act.dragAndDropBy(wm, 25, 0).build().perform();
 		
+		System.out.println("good anurag");
+		
 		
 	}
 }
